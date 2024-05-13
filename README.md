@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=vrai&vCenter=vrai&repeat=vrai&random=faux&width=440&height=52&lines=++++++++++++++++++++Salut+!+Moi+c'est+Ulrich;+++++++++++++++Domaine+%3A+S%C3%A9curit%C3%A9+Informatique;++++++++++++++++++++++++++++++++++++et++l'IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salut+!+Moi+c'est+Ulrich;Domaine+:+Sécurité+Informatique;et+l'IAFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <!--
