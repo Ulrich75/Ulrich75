@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salut+!+Moi+c'est+Ulrich;Domaine+:+Sécurité+Informatique;et+l'IAFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salut+!+Moi+c'est+Ulrich;Domaine+:+Sécurité+Informatique;et+l'IA)](https://git.io/typing-svg)
 
 
 <!--
