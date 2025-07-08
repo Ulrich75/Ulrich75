@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salut+!+Moi+c'est+Ulrich;Domaine+:+Audit,+Sécurité;des+Systèmes+Informatique)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 Je suis actuellement une formation en Intelligence artificielle<br>📫 Je joue aux CTF<br>👯 Je suis disponible pour des projets Opensource
+🔭 Je suis analyste en sécurité des applications web<br>📫 Je joue aux CTF<br>👯 Je suis disponible pour des projets Opensource
 
 
 ## 🌐 Socials:
